@@ -1,0 +1,12 @@
+commit a3fada42b926c02cc6611b30a4f8082d3aecf3ba (HEAD -> pybc_l03_03_branch)
+Author: Anastasija-Jakovleva<U+2028> <starme@mail.ru>
+Date:   Thu May 2 21:09:37 2019 +0300
+
+    Rebuild script_03.py and the results of 4 jpeg files
+
+commit 71c517001dbb8b27c410e890e1366ac5a814516a (master)
+Author: Anastasija-Jakovleva<U+2028> <starme@mail.ru>
+Date:   Thu May 2 20:54:31 2019 +0300
+
+    Create script_03.py and the result - unsplash_image.jpeg
+
